@@ -1,0 +1,6 @@
+{
+  "name": "المعلم الصغير - Junior Teacher App",
+  "description": "منصة المعلم الصغير المتكاملة لتدريس الأقران، تسجيل الجلسات والطلاب، إنشاء تقارير PDF وإرسالها للمعلم عبر واتساب وتليجرام، مع لوحة المعلم المشرف والمساعد الذكي وتنزيل المشروع.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
